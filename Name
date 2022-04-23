@@ -1,0 +1,6 @@
+#include<string.h>
+char a[6];
+char grade;
+scanf("%s,%c",a,&grade);
+printf("%s","%c",a,grade);
+return 0;
